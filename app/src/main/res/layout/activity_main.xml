@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Button 1"
-        android:backgroundTint="#F44336" />
+        android:backgroundTint="#9C27B0" />
 
     <Button
         android:id="@+id/button2"
@@ -20,6 +20,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="Button 2"
-        android:backgroundTint="#F44336" />
+        android:backgroundTint="#9C27B0" />
 
 </LinearLayout>
